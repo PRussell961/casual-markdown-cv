@@ -1,48 +1,41 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  Prussel961@gmail.com <br> 
 </span>
 
-# Casualwriter  
+# Paul Russell  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
-
+* Strong troubleshooting skills for software, system, and basic network-related issues  Experience assisting users, diagnosing problems, and providing timely technical solutions
+* Experience building and supporting applications using JavaScript, C#, RESTful APIs, and relational databases  
+* Strong software development skills to help
+* Comfortable working with Windows, Linux, and web-based tools   
+* Dependable team player with strong customer service and communication skills
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Target (Team Memeber, 2015/08 - present) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Accurately fulfilled online and in-store orders using inventory management systems while meeting strict time and quality metrics
+* Troubleshot order, inventory, and system-related issues to resolve errors and maintain workflow efficiency 
+* Collaborated with team members and leads to prioritize tasks, adapt to changing requirements, and ensure consistent service levels
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Uncle Maddios Pizza (Team Lead, 2016/01 - 2020/05)
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+* Acted as the primary escalation point for operational issues during shifts, resolving problems or routing them appropriately
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+* Standardized workflows and coached team members to improve accuracy, speed, and reliability
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+## Projects
 
-## Projects: 
+* [Chess AI](https://github.com/casualwriter/powerpage) - responsible for front-end, api, and deployment
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+## Education
 
-## Education & Qualifications
+* B.S. in Computer Science (2021 - 2024)
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
 
-## Misc. Information
-
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+## Skills
+* Programming Languages: Java, C#, JavaScript, React, CSS, Python
+* Cloud & Deployment: AWS EC2, Nginx, Ubuntu, deployment and server configuration workflows
+* Web & Backend Development: RESTful API development, full-stack application design, front-end interface implementation
+* Technical Problem-Solving: Troubleshooting, system analysis, documentation-driven development
