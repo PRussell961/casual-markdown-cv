@@ -27,7 +27,7 @@
 
 ## Projects
 
-* [Chess AI](https://github.com/casualwriter/powerpage) - responsible for front-end, api, and deployment
+* [Chess AI](https://github.com/casualwriter/powerpage](https://github.com/KSU-SP-14-Red-Senior-Project/SP14-Chess-AI) - responsible for front-end, api, and deployment
 
 ## Education
 
