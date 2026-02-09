@@ -6,11 +6,10 @@
 
 ## Executive Summary
 
-* Strong troubleshooting skills for software, system, and basic network-related issues  Experience assisting users, diagnosing problems, and providing timely technical solutions
+* Strong troubleshooting skills for software, system, and basic network-related issues  experience assisting users, diagnosing problems, and providing timely technical solutions
 * Experience building and supporting applications using JavaScript, C#, RESTful APIs, and relational databases  
-* Strong software development skills to help
-* Comfortable working with Windows, Linux, and web-based tools   
-* Dependable team player with strong customer service and communication skills
+* Knowledge of Windows, Linux, and web-based tools   
+* Dependable team player with customer service and communication skills
 ## Working Experience
 
 #### Target (Team Memeber, 2015/08 - present) 
@@ -27,11 +26,12 @@
 
 ## Projects
 
-* [Chess AI](https://github.com/casualwriter/powerpage](https://github.com/KSU-SP-14-Red-Senior-Project/SP14-Chess-AI) - responsible for front-end, api, and deployment
+* [Chess AI](https://github.com/KSU-SP-14-Red-Senior-Project/SP14-Chess-AI) - responsible for front-end, api, and deployment
 
 ## Education
 
-* B.S. in Computer Science (2021 - 2024)
+* B.S. in Computer Science (2021 - 2024) - Kennesaw Sate University, GA
+* A.S in Computer Science (2015 - 2018) - Chattahoochee Technical College, GA
 
 
 ## Skills
